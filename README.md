@@ -12,3 +12,6 @@
    - 방언 처리가 용이하여 Migration하기 좋음. 유지보수에도 좋음.
    
 ## 💡 
+
+####  [스프링부트 동작원리](https://getinthere.tistory.com/11)
+
